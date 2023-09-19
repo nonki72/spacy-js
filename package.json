@@ -1,6 +1,6 @@
 {
-  "name": "spacy",
-  "version": "0.0.4",
+  "name": "spacy-js-updated",
+  "version": "0.0.5",
   "description": "JavaScript API for spaCy with Python REST API",
   "main": "dist/index.js",
   "scripts": {
@@ -14,7 +14,7 @@
   "homepage": "https://github.com/ines/spacy-js#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ines/spacy-js.git"
+    "url": "https://github.com/nonki72/spacy-js.git"
   },
   "keywords": [
     "spacy",
